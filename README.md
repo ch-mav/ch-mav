@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ch-mav
+- 👋 Hi, I’m  Christos Mavroeidis (@ch-mav)
 - 👀 I’m interested in Applications Developing
 - 🌱 I’m currently learning SQL, Python, Data science
 - 📫 How to reach me: https://www.linkedin.com/in/christos-mavroeidis-5a6739174/ 
